@@ -38,6 +38,7 @@
     UILabel *label3 = [[UILabel alloc] initWithFrame:CGRectMake(200, 300, 150, 10)];
     label3.text = @"hahhah";
     [self.view addSubview:label3];
+     NSLog(@"v法规和高房价");
     NSLog(@"najfoaf");
     
     NSLog(@"反倒是个梵蒂冈");
