@@ -3,8 +3,12 @@
 <<<<<<< HEAD
    LastUpgradeVersion = "0700"
 =======
+<<<<<<< HEAD
+   LastUpgradeVersion = "0700"
+=======
    LastUpgradeVersion = "0710"
 >>>>>>> caf0a85df5b42fb6926e4d7f2fc9571146590c4c
+>>>>>>> 197f309da3fdb437a8504b923500117f6d655018
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
