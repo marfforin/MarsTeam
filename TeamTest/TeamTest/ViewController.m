@@ -40,10 +40,11 @@
     UILabel *label3 = [[UILabel alloc] initWithFrame:CGRectMake(200, 300, 150, 10)];
     label3.text = @"hahhah";
     [self.view addSubview:label3];
+    NSLog(@"najfoaf");
     
     
     
-
+ 
 }
 
 - (void)didReceiveMemoryWarning {
