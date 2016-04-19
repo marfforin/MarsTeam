@@ -20,6 +20,10 @@
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 100, 150, 10)];
     label.text = @"你是大大撒比";
     [self.view addSubview:label];
+    
+    UITextField *texdField = [[UITextField alloc] initWithFrame:CGRectMake(100, 150, 150, 10)];
+    texdField.placeholder = @"你好吗";
+    [self.view addSubview:texdField];
 
 }
 
